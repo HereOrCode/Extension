@@ -1,3 +1,5 @@
+## This extension has been sold and is no longer maintained. 
+
 # Browser Boost Extension
 
 **Chrome Download:** https://chrome.google.com/webstore/detail/akknpgblpchaoebdoiojonnahhnfgnem
