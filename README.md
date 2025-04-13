@@ -1,11 +1,6 @@
-## This extension has been sold and is no longer maintained. 
+## This extension has been sold and is no longer maintained. Current version may contain malware.
 
 # Browser Boost Extension
-
-**Chrome Download:** https://chrome.google.com/webstore/detail/akknpgblpchaoebdoiojonnahhnfgnem
-
-**Edge Download:** https://microsoftedge.microsoft.com/addons/detail/jehejlgggbhdemlekhoicodollcjnjig
-
 
 The Browser Boost extension provides an open-source, privacy respecting alternative to numerous single-use extensions.
 
