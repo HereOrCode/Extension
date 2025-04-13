@@ -1,4 +1,4 @@
-## This extension has been sold and is no longer maintained. Current version may contain malware.
+## This extension has been sold and is no longer maintained. Current version on webstore may contain malware.
 
 # Browser Boost Extension
 
