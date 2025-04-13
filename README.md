@@ -4,8 +4,6 @@
 
 The Browser Boost extension provides an open-source, privacy respecting alternative to numerous single-use extensions.
 
-You can rely on Browser Boost instead of having to trust multiple extensions from various developers, which are often closed source, collect user data, and come with undocumented permissions.
-
 Browser Boost collects no user data, does not require signup, has no servers, is entirely open source, and is 100% free.
 
 ## Tools
